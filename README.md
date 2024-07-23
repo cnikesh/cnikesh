@@ -1,6 +1,6 @@
 # 🏄‍♂️ Nikesh
 
-**`Software Engineer (Game/Web/Machine Learning)`**
+**`Software Engineer (Web | Autonomous Systems | Data Science | Game)`**
 
 ---
 <!-- About Section -->
