@@ -43,7 +43,7 @@
 </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/cnikesh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cnikesh&theme=radical&border=7F3FBF&background=0D1117" alt="Nikesh's GitHub streak"/>
   </a>
@@ -53,6 +53,6 @@
   <a href="https://github.com/cnikesh">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cnikesh&theme=radical" alt="Nikesh's GitHub Contribution"/>
   </a>
-</p>
+</p> -->
 
 
