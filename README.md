@@ -9,7 +9,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-✍️&emsp;Started coding in QBasic during high school, inspired by childhood video games
+✍️&emsp;Started coding in QBasic at high school, inspired by childhood video games
 
 💻&emsp;Experienced in full-stack development, machine learning, and Unity game development
 
