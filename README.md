@@ -9,8 +9,21 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love writing code and learning new skills<br/><br/>
+✍️ Started coding in QBasic during high school, inspired by childhood video games
+
+💻 Experienced in full-stack development, machine learning, and Unity game development
+
+🚀 Always excited to learn new technologies and share knowledge with others
+
+🌍 Enjoy exploring new places and experiencing different cultures
+
+🍳 Love cooking and trying out diverse cuisines
+
+🎹🎸 Passionate about playing music on piano and guitar
+
+🎾 Enjoy staying active with a game of tennis
+
+🏎️ Sim racing enthusiast, combining tech and motorsport passion
 👨🏽‍💻 &emsp; Inspired by the video games of my childhood, I wrote my first lines of code in BASIC using QBasic back in high school. What started as curiosity soon turned into a passion that has shaped my career. Today, I’m an experienced software developer specializing in full-stack development, machine learning, and game development with Unity.
 
 ✌️ &emsp;I thrive on continuous learning and love sharing my knowledge with others. Whether it's exploring new technologies or mentoring peers, I'm always eager to grow and contribute to the tech community.
