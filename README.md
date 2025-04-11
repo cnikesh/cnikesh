@@ -9,19 +9,15 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-✍️&emsp;Started coding in QBasic at high school, inspired by childhood video games
+✍️&emsp;Started coding in Basic, inspired by video games
 
-💻&emsp;Experienced in full-stack development, machine learning, and Unity game development
+💻&emsp;Experienced in full-stack development, machine learning, and game development
 
 🚀&emsp;Always excited to learn new technologies and share knowledge with others
 
 🌍&emsp;Enjoy exploring new places and experiencing different cultures
 
 🍳&emsp;Love cooking and trying out diverse cuisines
-
-🎧&emsp;Passionate about playing music on piano and guitar
-
-🎾&emsp;Enjoy staying active with a game of tennis
 
 🏎️&emsp;Sim racing enthusiast, combining tech and motorsport passion
 
