@@ -11,11 +11,11 @@
   
  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learning new skills<br/><br/>
-Inspired by the video games of my childhood, I wrote my first lines of code in BASIC using QBasic back in high school. What started as curiosity soon turned into a passion that has shaped my career.<br/>Today, I’m an experienced software developer specializing in full-stack development, machine learning, and game development with Unity.
+👨🏽‍💻 &emsp; Inspired by the video games of my childhood, I wrote my first lines of code in BASIC using QBasic back in high school. What started as curiosity soon turned into a passion that has shaped my career. Today, I’m an experienced software developer specializing in full-stack development, machine learning, and game development with Unity.
 
-I thrive on continuous learning and love sharing my knowledge with others. Whether it's exploring new technologies or mentoring peers, I'm always eager to grow and contribute to the tech community.
+✌️ &emsp;I thrive on continuous learning and love sharing my knowledge with others. Whether it's exploring new technologies or mentoring peers, I'm always eager to grow and contribute to the tech community.
 
-When I’m not building apps or diving into code, you’ll find me exploring new places, cooking diverse cuisines, playing music on the piano and guitar, or enjoying a game of tennis. <br/>I also have a deep passion for sim racing, combining my love for technology and motorsports into an immersive experience.
+❤️ &emsp; When I’m not building apps or diving into code, you’ll find me exploring new places, cooking diverse cuisines, playing music on the piano and guitar, or enjoying a game of tennis. I also have a deep passion for sim racing, combining my love for technology and motorsports into an immersive experience.
 </p>
 
 # ⚙️ Languages and Tools
