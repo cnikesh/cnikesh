@@ -1,9 +1,6 @@
 ### Hi 👋
 My name is Nikesh, I am a software engineer.
 
-<!-- About Section -->
- ### About me
- 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
@@ -12,12 +9,6 @@ My name is Nikesh, I am a software engineer.
 💻&emsp;Experienced in full-stack development, machine learning, and game development
 
 🚀&emsp;Always excited to learn new technologies and share knowledge with others
-
-🌍&emsp;Enjoy exploring new places and experiencing different cultures
-
-🍳&emsp;Love cooking and trying out diverse cuisines
-
-🏎️&emsp;Sim racing enthusiast, combining tech and motorsport passion
 
 </p>
 
