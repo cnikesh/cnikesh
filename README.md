@@ -1,10 +1,10 @@
-# 🏄‍♂️ Nikesh
+## Hi 👋
 
-**`Software Engineer (Web | Autonomous Systems | Data Science | Game)`**
+My name is Nikesh, I am a software engineer with expertise in full-stack, machine learning and game development.
 
 ---
 <!-- About Section -->
- # 😎 About me
+ ### About me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -23,7 +23,7 @@
 
 </p>
 
-# ⚙️ Languages and Tools
+<!-- # ⚙️ Languages and Tools
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -42,7 +42,7 @@
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" /> 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
-<br />
+<br /> -->
 
 <!-- # 📊 Stats
 
