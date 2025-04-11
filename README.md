@@ -4,7 +4,7 @@ My name is Nikesh, I am a software engineer.
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-💻&emsp;Experienced in full-stack development, machine learning, and game development
+💻&emsp;Experienced in full-stack, machine learning, and game development
 
 🚀&emsp;Always excited to learn new technologies and share knowledge with others
 
