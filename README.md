@@ -1,5 +1,5 @@
 ### Hi 👋
-My name is Nikesh, I am a software engineer with expertise in full-stack, machine learning and game development.
+My name is Nikesh, I am a software engineer.
 
 <!-- About Section -->
  ### About me
